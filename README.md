@@ -10,7 +10,7 @@
   <strong>Harold Haugen</strong><br>
   <strong>Max Pearton</strong><br>
   <strong>Elena Tsvetkova</strong><br>
-  <strong>Daniel Siery</strong>
+  <strong>Daniel Sery</strong>
 </p>
 
 ---
