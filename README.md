@@ -1,5 +1,5 @@
 <h2 align="center">
-  <strong>6050 Deep Learning - Landslide Detection Project Fall Semester 2024</strong>
+  <strong>6050 Deep Learning, University of Virginia Data Science - Landslide Detection Project Fall Semester 2024</strong>
 </h2>
 
 <h3 align="center">
