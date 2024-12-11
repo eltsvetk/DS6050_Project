@@ -29,4 +29,6 @@ The following notebooks were created to support our project objectives including
 4. **Landslide_Visuals** - Notebook building dataframes and plots for the report based on experimentation results. 
 5. **Model_SecondPhase_EFB3_hh** - Exploratory notebook running the EfficientNetB3 model, base and fine-tuning including augmentation.  Weights and model saved to a .Keras file. 
 6. **Model_SecondPhase_EFB3_hh-combdata** - Use of the final combined dataset (Set 4) Exploratory notebook running the EfficientNetB3 model, base and fine-tuning including augmentation.
-7. **Model_SecondPhase_ReconstModel_hh** - Transition of EfficientNetB3 weights saved from the Model_SecondPhase_EFB3_hh notebook, and placed into a new model for specific training. 
+7. **Model_SecondPhase_ReconstModel_hh** - Transition of EfficientNetB3 weights saved from the Model_SecondPhase_EFB3_hh notebook, and placed into a new model for specific training.
+8. **Model_Design_FirstPhase_GradCam_EfficientNet_and_Simple.ipynb** - Built out the architecture for Grad CAM using the models for the simple CNN and original EFB3 model.
+9. **Model_SecondPhase_GradCam_EFB3.ipynb** - Applied Grad CAM to our final EFB3 model. Compared results before vs after tuning. For the final EFB3 after tuning, applied GradCAM to the false positives, false negatives, and true positives. Also converted the lambda layer in original data augmentation code to a subclass of keras layers.
