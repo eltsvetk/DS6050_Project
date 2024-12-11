@@ -26,4 +26,5 @@ The following notebooks were created to support our project objectives including
 1. **Image_Data_Loading.ipynb**  Housing descriptions, links and examples to key data sources on the team's DropBox location. 
 2. **Landslide_SatImage_Tracker.ipynb** Accessing the NASA_SatImage_Log.csv file, where the team identified NASA landslide events and their lat./long. information to obtain related Google Earth images.
 3. **Landslide_Visuals** - Notebook building dataframes and plots for the report based on experimentation results. 
-4. sdafasfsa
+4. **Model_SecondPhase_EFB3_hh** Exploratory notebook running the EfficientNetB3 model, base and fine-tuning including augmentation.  Weights and model saved to a .Keras file. 
+5. **Model_SecondPhase_EFB3_hh-combdata** Use of the final combined dataset (Set 4) Exploratory notebook running the EfficientNetB3 model, base and fine-tuning including augmentation.
