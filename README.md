@@ -8,9 +8,9 @@
 
 <p align="center">
   <strong>Harold Haugen</strong><br>
-  <strong>fdsafdsaf</strong><br>
-  <strong>fdsafsda</strong><br>
-  <strong>fdsfdsa</strong>
+  <strong>Max Pearton</strong><br>
+  <strong>Elena Tsvetkova</strong><br>
+  <strong>Daniel Siery</strong>
 </p>
 
 ---
