@@ -36,3 +36,4 @@ The following notebooks were created to support our project objectives including
 11. **Phase 2 MultiModal Testing DS.ipynb** - Rough initial implementation of a multi-modal approach to attempt both identification of landslides and classification of size
 12. **densenetnewdataset.ipynb** - Applied Densenet model, base and hyperparameter tuning. Included data augmentation. 
 13. **mobilenetnewdataset.ipynb** - Applied Mobilenet model
+14. **USGS_Landslide.ipynb** - Initial EDA on USGS landslide data. This helped us understand the regions in the world that encounters the most landslides.
