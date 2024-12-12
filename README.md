@@ -34,3 +34,5 @@ The following notebooks were created to support our project objectives including
 9. **Model_SecondPhase_GradCam_EFB3.ipynb** - Applied Grad CAM to our final EFB3 model. Compared results before vs after tuning. For the final EFB3 after tuning, applied GradCAM to the false positives, false negatives, and true positives. Also converted the lambda layer in original data augmentation code to a subclass of keras layers.
 10. **phase 2 finetuning DS-2.ipynb** - Testing of various additional fine-tuning approaches, differences between going layer-by-layer vs by block, performance of deeper models
 11. **Phase 2 MultiModal Testing DS.ipynb** - Rough initial implementation of a multi-modal approach to attempt both identification of landslides and classification of size
+12. **densenetnewdataset.ipynb**
+13. 
