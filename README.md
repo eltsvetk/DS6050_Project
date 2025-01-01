@@ -18,6 +18,12 @@
 ## Introduction
 Landslide detection using deep learning models is a challenging yet critical task for disaster management and mitigation. This study explores the application of EfficientNetB3 and other Convolutional Neural Network (CNN) architectures to classify satellite imagery into landslide and non-landslide categories. We employed techniques such as data augmentation (e.g., saturation, contrast, cropping adjustments, etc.) and fine-tuning with layer unfreezing to improve model performance. Among tested architectures, EfficientNetB3 demonstrated superior results in identifying landslide features when trained with high-level layer unfreezing and transfer learning strategies. Grad-CAM visualizations provided valuable interpretability by highlighting spatial regions critical to the model's predictions. Our results indicate that diverse datasets, careful augmentation, and transfer learning significantly enhance the model's ability to generalize, offering a promising approach to landslide detection tasks.
 
+--
+## Presentations
+We presented the following presentations to our peers over course of the semester. 
+1. **Landslide_Project_Proposal**  Overview of our project proposal highlighting our motivation for the project, proposed data to be used, related literature review on the subject and intended machine learning methods to be explored.
+2. **Landslide_Project_Final** Final presentation highlighting the data process used, initial CNN model performance and our selection of EfficientNet for a phase II exploration process, experimentation results across various scenarios of data and model methods, and a summary of our results and viewpoints. 
+
 ---
 
 ## Notebook Contents
