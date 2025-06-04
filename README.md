@@ -24,7 +24,7 @@ Landslide detection using deep learning models is a challenging yet critical tas
 We presented the following presentations to our peers over course of the semester. 
 1. **Landslide_Project_Proposal**  Overview of our project proposal highlighting our motivation for the project, proposed data to be used, related literature review on the subject and intended machine learning methods to be explored.
 2. **Landslide_Project_Final** Final presentation highlighting the data process used, initial CNN model performance and our selection of EfficientNet for a phase II exploration process, experimentation results across various scenarios of data and model methods, and a summary of our results and viewpoints.
-3. **Landslide_Project_Final_Report** Final report detailing our 
+3. **Landslide_Project_Final_Report** Final report detailing our holistic approach, from initial literary research and proposal, to selected experiments, statistical methods, data sources and background,  and model performance and analysis. 
 
 ---
 
